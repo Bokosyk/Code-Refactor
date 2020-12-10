@@ -92,7 +92,8 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-samp {
+/* Changed .benefit-samp to section */
+section {
     margin-bottom: 32px;
     color: #ffffff;
 }
